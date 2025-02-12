@@ -1,0 +1,22 @@
+# Ignore Unity auto-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Ignore Visual Studio / JetBrains Rider files
+*.csproj
+*.sln
+*.userprefs
+
+# Ignore crash logs
+crashlytics-builds/
+
+# Ignore large files
+*.psd
+*.mp4
+*.zip
